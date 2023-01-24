@@ -1,4 +1,4 @@
-# Terraform_workspaces_aws_vpcAWS VPC Workspace
+# Terraform_workspaces_aws_vpc
 
 Este projeto consiste em criar um ambiente de VPC (Virtual Private Cloud) na AWS (Amazon Web Services) com dois ambientes: Prod e Dev.
 
